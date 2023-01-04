@@ -1,0 +1,3 @@
+<?php
+$judul = "Frendy Santoso";
+?>
